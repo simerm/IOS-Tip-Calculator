@@ -16,6 +16,7 @@
 		109965E727A9697600A54A7A /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109965E627A9697600A54A7A /* PreworkTests.swift */; };
 		109965F127A9697600A54A7A /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109965F027A9697600A54A7A /* PreworkUITests.swift */; };
 		109965F327A9697600A54A7A /* PreworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109965F227A9697600A54A7A /* PreworkUITestsLaunchTests.swift */; };
+		1099660227AC138400A54A7A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1099660127AC138400A54A7A /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		109965EC27A9697600A54A7A /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		109965F027A9697600A54A7A /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		109965F227A9697600A54A7A /* PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1099660127AC138400A54A7A /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		109965C327A9697300A54A7A = {
 			isa = PBXGroup;
 			children = (
+				1099660127AC138400A54A7A /* SettingsViewController.swift */,
 				109965CE27A9697300A54A7A /* Prework */,
 				109965E527A9697600A54A7A /* PreworkTests */,
 				109965EF27A9697600A54A7A /* PreworkUITests */,
@@ -261,6 +264,7 @@
 				109965D427A9697400A54A7A /* ViewController.swift in Sources */,
 				109965D027A9697300A54A7A /* AppDelegate.swift in Sources */,
 				109965D227A9697300A54A7A /* SceneDelegate.swift in Sources */,
+				1099660227AC138400A54A7A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
